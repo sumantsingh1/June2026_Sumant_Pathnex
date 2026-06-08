@@ -1,0 +1,19 @@
+DAY 3 — 3 June 2026
+----------------------------------------
+
+# What I Did Today
+a) Completed Linux class in morning 
+b) Linux practice on EC2 instance of today class 3 hour
+c) Linux interview questions practice 1 hour
+d) Coding practice for 1 hour
+e) 30 min English speaking practice with movie subtitles
+f) 30 min shadowing practice without subtitles
+
+# Tomorrow's Task
+a) Start Git class
+b) Revise Git class
+c) Git hands-on practice
+d) Git interview questions practice
+e) Coding practice
+f) 30 min English speaking practice with movie subtitles
+g) 30 min shadowing practice without subtitles

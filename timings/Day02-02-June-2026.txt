@@ -1,0 +1,18 @@
+# What I did today
+a> Joined live class 
+b> 3 hour revised of live class of linux
+c> did 1.5 hour coding practice
+d> 40 min joined of evening class
+e> practiced of linux command for 3 hour 
+f> 30 min English speaking practice with movie substitle
+e> 30 min showding practice without substitle
+
+## Tomorrow's Task (3 june)
+a> joing live class in morning
+b> revise live class in 1.5speed 
+c> practice for linux class for on ec2 instance for 3 hour
+d> coding task practice for 1 hour 
+e> linux questions practice for 1 hour
+f> 30 min English speaking practice with movie substitle
+g> 30 min showding practice without substitle
+

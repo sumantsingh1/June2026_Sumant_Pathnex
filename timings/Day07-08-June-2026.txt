@@ -1,0 +1,20 @@
+DAY 7 — 8 June 2026
+----------------------------------------
+
+# What I Did Today
+a) Attended AWS class in morning
+b) Practiced AWS topics from videos for 2.5 hours
+c) Revised AWS, git, linux notes and questions 4 hours
+d) AWS interview questions practice 1 hour
+e) Coding practice 1 hour
+f) 30 min English speaking practice with movie subtitles
+g) 30 min shadowing practice without subtitles
+
+# Tomorrow's Task
+a) Attend AWS class
+b) Revise AWS notes
+c) AWS hands-on practice on EC2
+d) AWS interview questions practice
+e) Coding practice
+f) 30 min English speaking practice with movie subtitles
+g) 30 min shadowing practice without subtitles
