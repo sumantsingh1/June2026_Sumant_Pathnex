@@ -1,0 +1,20 @@
+DAY 10 — 10 June 2026
+What I Did Today
+
+a) Joined morning Docker class 
+b) Revised Docker topics, made notes, and prepared for evening class (4 hours)
+c) Watched Kubernetes videos and learned Kubernetes concepts (2 hours)
+d) Revised old Docker videos (2 hours)
+e) English practice 1 hour
+f) Joined evening class and explained today's Docker learning to Neeraj
+
+Tomorrow's Task (11 June)
+
+a) Join morning Docker/Kubernetes class
+b) Revise today's class notes
+c) Practice Docker and Kubernetes hands-on
+d) Make detailed notes from learning
+e) Prepare Docker and Kubernetes interview questions
+f) Join evening class
+g) English speaking practice (30 min)
+h) Shadowing practice (30 min)
