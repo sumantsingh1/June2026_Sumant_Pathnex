@@ -1,0 +1,32 @@
+DAY 11 — 11 June 2026
+
+What I Did Today
+
+a) Joined morning Kubernetes class 
+b) Revised today's class notes and concepts in 2x speed 
+c) Practiced Docker and Kubernetes hands-on labs 4 hours
+d) Made detailed notes from today's learning 2 hour
+e) Prepared Docker and Kubernetes interview questions and answers 1 hour
+f) Joined evening class 30 min
+g) English speaking practice (30 minutes)
+h) Shadowing practice (30 minutes)
+
+Learning Summary
+Revised Docker concepts and commands
+Practiced Kubernetes architecture and components
+Learned about Pods, Deployments, Services, and Namespaces
+Improved understanding of containerization and orchestration
+Strengthened interview preparation through revision and practice
+
+
+# Tomorrow's Task (12 June)
+
+a) Join morning class
+b) Revise today's live class topics
+c) Continue Docker and Kubernetes hands-on practice
+d) Update and organize notes
+e) Practice Docker and Kubernetes interview questions
+f) Join evening class
+g) Coding practice (1 hour)
+h) English speaking practice (30 minutes)
+i) Shadowing practice (30 minutes)
