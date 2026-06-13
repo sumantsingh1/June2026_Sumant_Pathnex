@@ -1,0 +1,12 @@
+Today Task Done:
+a.Joined EKS class, practice and prepare for Kubernetes 4HOUR
+b.english practice for 1 hour
+C.Revise the kubernetes May batch video 2 hours
+d. fixed broken code , and practice for coding task 1 hour
+
+Tommorow:
+a. Learn and practice for Kubernetes 
+b. make notes of learning 
+c. practice for english
+d. make git and linux pdf file for notes
+e. comment on neeraj old video, joing evening class, push code
