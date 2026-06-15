@@ -1,0 +1,14 @@
+
+Today Task Done:
+a. Learned and practiced for Kubernetes 5 hour
+b. make notes of learning 1 hour
+c. practice for english 30 min
+d. make git and linux pdf file for notes 1 hour
+e. watched today class video in 2x 2 hour with practive
+
+
+Tommorow:
+a. do practice of k8s latest and old video of day 3 and 4
+b. create eks cluster with nodes 
+c. practive english 30 min
+d. push code for day 15
