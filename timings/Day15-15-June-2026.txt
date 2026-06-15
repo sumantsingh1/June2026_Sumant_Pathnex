@@ -1,0 +1,10 @@
+# today task done:
+a. Learn EKS cluster with class video and may month video 6 hour
+b. make notes of my learning 
+c. practice english 30 min
+d. practice coding task 1 hour
+
+# Tommorow
+a. joing online class
+b. practive of k8s video old and class
+c. practice english 
