@@ -1,0 +1,4 @@
+---
+httpd_package: httpd
+httpd_service: httpd
+welcome_message: "This is pathnex web server!"
