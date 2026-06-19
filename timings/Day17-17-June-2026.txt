@@ -1,0 +1,12 @@
+Task Done:
+a. practice argocd for 5 hour , created ec2 instance and eks on aws
+b. practice english for 30 min
+c. wathced old video of argo cd 3 hour
+d. practice for coding task 1 hour
+
+
+Tommorow:
+a. join online class morning.
+b. practice of terraform 
+c. english practice
+d. coding practice
