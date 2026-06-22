@@ -1,0 +1,11 @@
+Task done:
+a. practice for ansible
+b. Watched old video of ansible
+c. practice for english 
+
+
+Tommrrow:
+a. complete all incomplete task 
+b. make interview notes and prepare for Linux and git
+c. join evening class for cicd and ansible
+
