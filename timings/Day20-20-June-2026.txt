@@ -1,0 +1,9 @@
+Task Done: 
+a.Ansible practice for 4 hour
+b. Watched old video of ansible may 3 hour
+c. practice english 1 hour
+
+
+Tommrrow:
+a. ansible practice
+b. english practice
