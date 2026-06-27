@@ -1,0 +1,18 @@
+# Day 23
+Tasks Done:
+
+a. Joined morning class for Prometheus, Grafana, and Datadog
+
+b. Hands-on practice for Prometheus and Grafana metrics monitoring
+
+c. Watched course videos at 2x speed for revision
+
+d. Prepared topics ahead for the evening class
+
+e. Practice for English
+
+Tomorrow (Plan for Day 24):
+
+a. join 6 AM for ELK Stack class
+
+b. English practice , watch video in 2x speed

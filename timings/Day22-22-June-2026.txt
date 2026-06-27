@@ -1,0 +1,13 @@
+# Day 22
+Tasks Done:
+a. Completed all incomplete tasks from Day 21
+b. Made interview notes and prepared for Linux and Git
+c. Joined evening class for CI/CD and Ansible
+d. Hands-on practice for CI/CD
+e. Practice for English
+
+Tomorrow (Plan for Day 23):
+
+a. Prepare topics ahead for Prometheus, Grafana, and Datadog class
+
+b. Join evening class, practice for english 
