@@ -1,0 +1,16 @@
+# Day 24
+Tasks Done:
+
+a. Joined morning class for ELK Stack (Elasticsearch, Logstash, Kibana)
+
+b. Hands-on practice for log management and visualization
+
+c. Watched setup and configuration videos at 2x speed
+
+d. Practice for English
+
+Tomorrow (Plan for Day 25):
+
+a. Join for Apache Kafka class
+
+b. English Practice
