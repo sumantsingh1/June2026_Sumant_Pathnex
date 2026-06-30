@@ -1,0 +1,16 @@
+# Day 25
+Tasks Done:
+
+a. Completed morning class for Apache Kafka
+
+b. Hands-on practice for Apache Kafka
+
+c. Watched architecture and pipeline videos at 2x speed
+
+d. Practice for English
+
+Tomorrow (Plan for Day 26):
+
+a. Join in morning for SRE concepts class
+
+b. English practice
